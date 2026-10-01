@@ -20,3 +20,6 @@ The project was built using the following tools and technologies:
 
 🤖 Claude (AI assistant): Used to speed up exploratory data analysis, data-quality checks and code generation, with all outputs manually validated and debugged.
 
+![Dasboard Preview](https://github.com/samridhdeshwar01-hue/Decathlon-Project-Excel-with-AI-/blob/main/Screenshot%20of%20Dashboard.png). 
+
+![Dasboard Preview](https://github.com/samridhdeshwar01-hue/Decathlon-Project-Excel-with-AI-/blob/main/Screenshot%20of%20Dashboard%202.png). 
